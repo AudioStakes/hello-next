@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello World!
+          Hello World! from non-main branch
         </h1>
 
         <p className={styles.description}>
